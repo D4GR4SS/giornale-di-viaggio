@@ -1,9 +1,7 @@
 # Travel Journal
 
 Travel Journal is a React application built with Vite that allows users to explore various travel destinations. It renders information from the `TravelData` file into visually appealing cards, providing details about different locations, including title, location, Google Maps URL, dates, descriptions, and images.
-Inspired by the solitary scrimba project. Totally created by me as I am not a pro member. 😄
-This was a great refresher on using props between components and rendering multiple elements with .map()
-
+Inspired by the solitary scrimba project. Totally created by me as I am not a pro member. This was a great refresher on using props between components and rendering multiple elements with .map() 😄🚀
 ## Features
 
 - **Dynamic Cards**: Display travel information in beautifully designed cards.
@@ -22,7 +20,7 @@ This was a great refresher on using props between components and rendering multi
 
    ```bash
    git clone <repository-url>
-   cd travel-explorer
+   cd <repository-name>
    ```
 
 2. **Install Dependencies**:
